@@ -1,1 +1,1 @@
-# SQL-PROJECT
+this project involves around the pizza sales database, which has 4 tables namely- orders, order_ details, customer_ details, pizzas_ type. tha analysis involves corresponding queries of the questions involves. this will conduct an in- depth analysis that will inform key business decisions.# SQL-PROJECT
